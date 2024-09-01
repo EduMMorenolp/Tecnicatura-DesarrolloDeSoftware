@@ -1,0 +1,24 @@
+Práctica adicional
+
+Te proponemos que desarrolles un algoritmo en pseudocódigo que permita preparar un café con leche con 3 cucharadas de azúcar. 
+
+¿Cuáles serían los datos conocidos?
+
+¿Falta algún dato en el enunciado que amerite realizar una hipótesis?
+
+En base al problema visto en clase (Debo tomar el colectivo para viajar hasta el trabajo en la avenida Corrientes 244.), ¿cómo te imaginas que sería el paso a paso para el problema propuesto?
+
++---------------------------------------------------------------------------------+
+
+1. Datos conocidos, cafe con leche / 3 chd de azucar.
+
+2. Datos faltantes, tamaño de la taza / metodo de preparacion (cafetera, manual, saquito)
+
+3. Paso a Paso para preparar un cafe.
+
+a. Calentar el agua.
+b. Preparar la Taza.
+c. Poner el saquito de cafe en la Taza.
+d. Poner el agua caliente en la Taza.
+e. Agregar 3 cucharadas de azucar. 
+f. Revolver con la cuchara. 

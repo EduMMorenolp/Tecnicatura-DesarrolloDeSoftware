@@ -1,0 +1,15 @@
+Enunciado A) Pedir que se ingrese 2 números enteros y mostrar la suma entre ambos.
+
+Enunciado B) Ingresar valores del tipo real en las variables numero1 y numero2. Una vez ingresadas, invertir los valores, es decir, que lo cargado en numero1 quede guardado en numero2 y viceversa.
+
+Enunciado C) Ingresar la nota de 3 alumnos y mostrar el promedio.
+
+Te proponemos realizar lo siguiente para cada uno de ellos:
+
+Enunciado A) Pedir que se ingrese 2 números enteros y mostrar la suma entre ambos.
+
+
+1.Identificar los datos de entrada y salida y, en caso de creerlo necesario, escribí las hipótesis.
+2.Desarrollar el análisis y la estrategia de resolución.
+3. Completar el ejercicio generando el algoritmo utilizando pseudocódigo.
+4. Realizar el diagramas de flujo.
