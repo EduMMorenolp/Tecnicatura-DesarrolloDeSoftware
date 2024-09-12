@@ -1,0 +1,38 @@
+Ejercicio 1:
+Situación
+¡Vamos al cine!
+
+Un cine nos solicitó desarrollar un algoritmo para poner a la venta 60 entradas de una sala con pantalla de 360°. Por cada compra realizada, nos ingresarán la cantidad de localidades que se desean. El programa finalizará cuando ingresen 0 en la cantidad o bien cuando no queden localidades por vender.
+
+
+Objetivo
+Al finalizar el programa, se deberá mostrar la cantidad de localidades que quedaron disponibles.
+
+Ejercicio 2:
+Realizá un programa que muestre la suma de los números del 1 al 100 inclusive.
+
+Ejercicio 3:
+Realizá un programa, que pida números mientras no se ingrese uno negativo. Al final, se debe mostrar la suma de los números ingresados.
+
+Ejercicio 4:
+Situación
+La casa de venta de golosinas Dulcilandia nos encarga un programa para calcular las ventas realizadas en un día. Para ello nos ingresarán, el número de orden de la venta y por cada una de las ventas realizadas, la cantidad y el valor unitario de cada producto vendido. 
+
+Nos dicen que cuando la cantidad sea cero indica que no hay más productos de esa venta. Además nos cuentan que cuando el número de orden sea cero, indica que no hay más ventas para cargar y el programa finalizará. 
+
+
+Objetivo 
+Se desea saber:
+
+El importe total de cada venta
+
+El importe total facturado en el día
+
+Cantidad de ventas realizadas
+
+Promedio de cada venta
+
+Ejercicio 5:
+Pedir al usuario que ingrese 2 valores enteros positivos. Realizar un algoritmo que realice la multiplicación de dichos números por sumas sucesivas. 
+
+Ejemplo: Si ingresa los números 4 y 8, nuestro programa deberá sumar 4 veces el número 8 y emitir el resultado.  ¿Cómo podemos optimizar el algoritmo si ingresa el primer número más grande que el segundo?
