@@ -1,0 +1,7 @@
+
+
+GeoGebra Graphing Calculator (https://www.geogebra.org/graphing):
+Es una herramienta gratuita en línea que permite crear gráficos de funciones matemáticas, realizar cálculos, y explorar conceptos de álgebra y geometría interactivamente. Ideal para estudiantes y profesores, ofrece una interfaz intuitiva para graficar ecuaciones, manipular geometrías y experimentar con distintos escenarios matemáticos.
+
+Web 2.0 Calc (https://web2.0calc.es/):
+Es una calculadora científica en línea que permite realizar cálculos avanzados con una amplia variedad de funciones matemáticas, como trigonometría, logaritmos, raíces, potencias y más. Es una opción conveniente para resolver problemas matemáticos complejos de forma rápida y sin necesidad de instalar software adicional.
