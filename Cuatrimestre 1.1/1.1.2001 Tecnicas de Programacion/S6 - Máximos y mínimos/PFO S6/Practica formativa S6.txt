@@ -1,0 +1,51 @@
+Practica formativa S6 (Entrega obligatoria)
+
+Resolvé los siguientes problemas utilizando las distintas estructuras, en la herramienta PSeint. 
+
+Nota: todos los datos ingresados se deben validar salvo que el ejercicio diga que se asume que ya se encuentran validados y no tendrán errores.
+
+
+Problema 1:
+Situación
+La biblioteca de la ciudad necesita organizar y tener un recuento de los libros que tiene en sus 5 estantes. 
+
+Por cada uno de los 5 estantes, se ingresan libros:
+
+         Por cada uno de esos libros ingresar:
+
+Nombre del libro (‘FIN’ = No hay más libros para ese estante)
+Género (‘I’ à Infantil, ‘N’ à Novela, ‘H’ à Historia)
+Cantidad de páginas que tiene el libro (mayor a 0)
+Objetivo
+Una vez finalizado el ingreso de datos de 1 estante, se debe mostrar por pantalla:
+
+El nombre del libro que más páginas tiene, con su cantidad correspondiente.
+Al finalizar el ingreso de datos de todos los estantes, mostrar:
+
+Cantidad de libros por género
+Promedio de libros por estante
+
+
+
+Problema 2:
+Situación 
+Realizá el juego Mayor-Menor-Igual cuyas reglas son las siguientes:
+
+El programa mostrará la explicación del juego. 
+Deberá generar al azar un número entero entre 1 y 109 y mostrarlo en pantalla.
+El usuario deberá predecir cómo será el próximo número que salga (también generado al azar): ¿mayor, menor o igual?  Cualquier opción incorrecta que el usuario ingrese, debe hacer que se repita la pregunta: ¿mayor, menor o igual?
+Mientras el usuario acierte sus predicciones, el juego continuará con la misma mecánica.
+Cada acierto valdrá un punto. 
+El juego termina cuando no se ha acertado la predicción.
+
+Objetivo: El programa, finalmente, debe mostrar el puntaje total obtenido (número de aciertos)
+Recordá
+-Nunca olvides: por más que los resultados en pantalla sean correctos no implica que esté correctamente programado. Por eso, es importante que analices las técnicas de programación que vas a usar. 
+-Los ciclos exactos es porque sabemos exactamente la cantidad de veces a ciclar, en cambio en los condicionales va a ciclar mientras se cumpla una determinada condición
+-Darles valor inicial a los contadores y acumuladores antes de utilizarlos!
+-Una estructura de control puede estar dentro de otra estructura de control igual o diferente. 
+
+Es decir, puede aparecer un si condicional dentro de un ciclo o un ciclo dentro de otro ciclo, etc. La combinación que debas elegir estará dada por la solución que requiera el problema.
+Para poder entregar la actividad propuesta, ir al botón "agregar entrega" y completar la actividad adjuntando el/los nuevo/s archivo/s. 
+
+¿Tenés dudas? Recordá que está el foro de consultas.
