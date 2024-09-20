@@ -1,0 +1,114 @@
+Resolvé los siguientes 3 ejercicios utilizando las distintas estructuras, en la herramienta PSeint. 
+
+Nota: todos los datos ingresados se deben validar salvo que el ejercicio diga que se asume que ya se encuentran validados y no tendrán errores.
+
+
+Ejercicio 1:
+Situación
+La empresa de telefonía móvil ABC había lanzado una nueva tarifa para sus clientes que incluye una cantidad ilimitada de llamadas y mensajes de texto a cambio de un pago fijo mensual. Sin embargo, han observado que algunos clientes están consumiendo una cantidad excesiva de datos móviles, lo que está afectando negativamente a la calidad del servicio para otros clientes.
+
+Por ello, han decidido implementar un sistema de facturación adicional para el uso de datos móviles, en el que se cobrará una tarifa por cada megabyte de datos consumidos. Nos han encargado la confección de un programa que les permita calcular el importe a cobrar a cada cliente en base a su consumo de datos durante el último mes de acuerdo a su abono.
+
+Por cada cliente ingresan:
+
+El código de cliente (una cadena de caracteres).
+El abono al cual pertenece el cliente (“A”, “B” o “C”). 
+El consumo de datos en megabytes (un número entero mayor o igual que 0).
+Los costos por megabyte de acuerdo al abono son los siguientes:
+
+Abono 1: $0.5 por megabyte
+Abono 2: Hasta 5 megabyte $1 cada megabyte; más de 5 megabyte $0.75 cada megabyte
+Abono 3: $1 el megabyte con un máximo de $10 (es decir, si consume 15 megabyte paga $10)
+Objetivo
+Se nos pide informar:
+
+El importe recaudado por cada abono.
+El código del cliente que consumió más datos (en el caso que haya más de uno con el mismo consumo máximo, mostrar el código del primero que apareció).
+Cuántos clientes en total consumieron más de 50 megabytes.
+
+
+Ejercicio 2:
+Situación
+Una casa de venta y remate de antigüedades lleva varios años en el mercado y ha tenido varias subastas exitosas a lo largo de los años. La última subasta fue un gran éxito y la empresa quiere evaluar cómo ha salido el remate.
+
+Para hacer frente a estas tareas, ha contratado a un equipo de expertos en antigüedades que estudiarán los datos reunidos y determinarán las respuestas a las preguntas planteadas. El equipo de expertos está compuesto por historiadores del arte, expertos en antigüedades y expertos en valoración de obras de arte. Con sus conocimientos y habilidades combinadas, están seguros de poder ofrecer una evaluación precisa y detallada del último remate de la empresa pero necesitan de tu ayuda para realizar un algoritmo que les simplifique su trabajo.
+
+Para ello, han reunido los datos de cada una de las 100 piezas que se subastaron y nos ingresan por cada una de ellas:
+
+el código de la pieza (caracteres),
+el precio base (mayor a cero),
+el importe pagado (mayor o igual al precio base),
+el código del comprador (si es un particular “P” o una empresa “E”).
+
+Objetivo
+Con estos datos, la empresa quiere determinar:
+
+Cuántas piezas tuvieron un importe pagado que resultó ser superior al triple de su precio base.
+Cuáles son los códigos de piezas en las que el importe pagado no superó el triple del precio base.
+Y cuál es el código de la pieza adquirida por una empresa por la que se pagó el mayor importe.
+
+
+
+Ejercicio 3:
+Situación
+La empresa 'TVeo Bien' vende un remanente de 50 televisores LCD y LED y necesita un sistema para calcular el precio de cada uno de ellos y poder rotularlos.
+
+Cada televisor tiene un tamaño en pulgadas y se le aplica un precio fijo por pulgada según sea LCD o LED: U$S 5 para LCD y U$S 7 para LED.
+
+ Se ingresa por cada producto:
+
+El tipo de Televisor (LCD y LED) -------- Caracter
+Cantidad de pulgadas ---------------------- Entero mayor a cero
+
+Objetivo
+El programa debe mostrar por pantalla:
+
+El total a rotular por cada televisor.
+Cuál será el valor de la cuota a pagar de cada uno sabiendo que son 12 cuotas, y se aplica un interés sobre el total de un 65%. 
+El porcentaje de televisores LED y el porcentaje de televisores LCD sobre el total de lo rotulado.
+La siguiente tabla es un ejemplo:
+
+Tipo
+
+Pulgadas
+
+Total
+
+PrecioCuota (c/u)
+
+LCD
+
+42
+
+U$S 210
+
+U$S 28.87
+
+LED
+
+32
+
+U$S 224
+
+U$S 30.80
+
+LCD
+
+40
+
+U$S 200
+
+U$S 27.50
+
+LED
+
+24
+
+U$S 168
+
+U$S 23.10
+
+
+
+Cantidad de LED = 50%
+Cantidad de LCD = 50%
