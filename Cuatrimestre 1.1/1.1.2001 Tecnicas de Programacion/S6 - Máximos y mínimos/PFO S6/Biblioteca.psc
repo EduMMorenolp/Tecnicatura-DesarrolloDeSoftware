@@ -20,6 +20,7 @@ Algoritmo Biblioteca
 				Repetir
 					Escribir "Ingrese el género del libro (I = Infantil, N = Novela, H = Historia):"
 					Leer generoLibro
+					generoLibro = Mayusculas(generoLibro)
 				Mientras Que  generoLibro <> "I" Y generoLibro <> "N" Y generoLibro <> "H"
 				Segun generoLibro Hacer
 					Caso "I":
@@ -40,8 +41,8 @@ Algoritmo Biblioteca
 		Mientras Que nombreLibro <> "FIN"
 		Si libroMaxPaginas <> "" Entonces
 			Escribir "El libro con más páginas en el estante ", estante, " es: ", libroMaxPaginas, " con ", maxPaginas, " páginas."
-			libroMaxPaginas = ""
 		FinSi
+		libroMaxPaginas = ""
 	FinPara
 	
 	Escribir "Cantidad de libros por género:"
