@@ -1,0 +1,19 @@
+Video 1. En este video se repasan las reglas usuales de derivación. Mirar hasta: 1:50.
+
+https://youtu.be/Lar1i_YrJvg
+
+Video 2. En este video se desarrolla un ejemplo de estudio de función y su representación gráfica utilizando información provista por la derivada. No considerar el estudio de concavidad ni de puntos de inflexión que se menciona en el video.
+
+https://youtu.be/Q73XxigqTP8
+
+Video 3. En este video se desarrolla un ejemplo sobre aproximación lineal de funciones que es muy similar al estudiado en el libro de esta semana.
+
+https://youtu.be/ZmMQFgyOmXU
+
+Video 4. En este video se muestra la aproximación lineal local de una función trascendente.
+
+https://youtu.be/69mAIUOXQcA
+
+[EXTRA] En este video se muestra cómo la derivada es una herramienta útil en problemas de optimización. 
+
+https://youtu.be/q9Oj5j5q7zc
