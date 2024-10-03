@@ -12,6 +12,8 @@
 
 Analisis matematico : https://drive.google.com/drive/folders/1bSMwFohIeZSnjDMPs5Y2DmmtQIMnlWxT
 
+# Tabla PFO, Parciales, Finales
+
 <table>
   <thead>
     <tr>
