@@ -1,0 +1,29 @@
+Resolvé las siguientes consultas usando join y sus combinaciones, utiliza el archivo “Semana-7_BaseTaller.sql  y el archivo “Semana-9_AnexoTaller.sql”. Encontrarás los dos archivos adjuntados
+
+
+
+Consultas
+
+1)      El dueño del taller quiere saber cual es el monto total que cada cliente debe abonar al asistir al taller. El informe debe mostrar nombre, apellido, teléfono y monto
+
+2)      Tomando la consulta del punto 1, se pide mostrar al cliente o clientes que abona el monto menor.
+
+3)      Identificar cual o cuales fueron los mecánicos que diagnostican que realizaron  la mayor cantidad de revisiones.
+
+4)      Mostrar los datos relevantes de los repuestos que fueron usados en todos los presupuestos.
+
+5)      El dueño del taller debe comprar los repuestos y necesita un listado que muestre el nombre, la cantidad, el precio unitario y el total. El listado debe estar ordenado por nombre.
+
+6)      Obtener un listado que muestre nombre, apellido del cliente y una columna con el llamada mensaje. Esa columna debe decir Sin vehículo registrado y Con vehículo registrado. La lógica es la siguiente si el cliente no registro ningún vehículo o si el cliente registro por lo menos uno.
+
+7)      Mostrar en un listado los arreglos que usan por lo menos un repuesto cuyo precio unitario es menor que el promedio de precios de todos los repuestos. El  listado debe mostrar matricula del vehículo, teléfono del cliente, y el monto a abonar en concepto de repuestos.
+
+8) Mostrar los clientes registrados que aún no tienen ingreso en el taller para un diagnóstico.
+
+9) Obtener un listado ordenado por apellido de los mecánicos y el tipo. El tipo esta definido con el atributo repara. Para mostrar el listado se pide armar dos select y aplicar la función unión.
+
+10) Utilizando una de las combinaciones de join, mostrar los repuestos que no se mencionan en los presupuestos.
+
+11) Identificar por fecha cuántas fichas se confeccionaron y cuántos mecánicos diagnosticaron. Recordá que una ficha puede tener más de un diagnostico; por esa razón existe la tabla “fichamd”.
+
+12) Construir una consulta para cada combinación de join. Se debe redactar la consigna, identificar la combinación utilizada y proponer una alternativa de resolución.
