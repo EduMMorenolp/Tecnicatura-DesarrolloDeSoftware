@@ -1,0 +1,35 @@
+Video 1. En el siguiente video se explica qué es un vector y cuáles son sus características.
+
+https://youtu.be/IrTeyyzerjI
+
+Video 2. En este video se explica la interpretación gráfica de un vector en  R2
+ , cómo encontrar las componentes a partir de su punto de aplicación y terminal, y cómo calcular su módulo.
+
+https://youtu.be/M5LZ1R3LAps
+
+Video 3. En el siguiente video se explica cómo resolver las tres primeras operaciones sobre vectores en  R2
+ .
+
+https://youtu.be/rtxUMjExgKk
+
+Video 4. En este video se explica cómo resolver el producto escalar entre dos vectores en  R2
+ .
+
+https://youtu.be/YHwUHbIHl4Y
+
+Video 5. En este video se explica la interpretación geométrica de las operaciones sobre vectores en  R2
+ .
+
+https://youtu.be/MEscwXX82Ig
+
+Video 6.  En el siguiente video se explica cómo representar gráficamente puntos y vectores en el espacio. Además, se resuelve un ejemplo de suma y la multiplicación por un escalar en  R3
+ .
+
+https://youtu.be/aevLlQfs9hY
+
+Video 7.  En este video se explica cómo expresar un vector en  R2
+  y  R3
+  utilizando los vectores.
+
+https://youtu.be/dsu_XNm8xWM
+
