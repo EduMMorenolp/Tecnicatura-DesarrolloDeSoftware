@@ -1,7 +1,7 @@
 Algoritmo PFO3_EduardoMoreno
 	Definir MAX_ALUMNOS, i, edad, cantAlumnos, mayorEdad Como Entero
     Definir matrizAlumnos, nombre Como Caracter
-    MAX_ALUMNOS = 5
+    MAX_ALUMNOS = 3
     cantAlumnos = 0
     mayorEdad = 0
 	nombre = ""
