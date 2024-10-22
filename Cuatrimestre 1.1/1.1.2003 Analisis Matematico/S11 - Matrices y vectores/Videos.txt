@@ -1,0 +1,19 @@
+Video 1. En este video se repasan operaciones con matrices "a mano" y usando una calculadora científica en el modo matrices.
+
+https://youtu.be/Hv7rRCWbDYE
+
+Video 2. En este video se repasan operaciones con matrices "a mano" y usando una calculadora científica en el modo matrices.
+
+https://youtu.be/VYpwJl1iK18
+
+Video 3. En este video se repasa el cálculo del producto de matrices "a mano" y usando una calculadora científica en el modo matrices.
+
+https://youtu.be/YF9fI-dNCXk
+
+Video 4. En este video se repasa el cálculo de la inversa de matrices "a mano" (por eliminación gaussiana) y usando una calculadora científica en el modo matrices.
+
+https://youtu.be/ByW-Uc1V3gQ
+
+[EXTRA] En este video se muestra cómo obtener la matriz inversa usando un método diferente al estudiado. Puede verse hasta los primeros 15 minutos, en el que se calcula el determinante, o completo, en caso de querer revisar otro posible método para la obtención de la matriz inversa. Al final, muestra cómo efectuar el cómputo usando una calculadora científica.
+
+https://youtu.be/HgOMqaVRjvM

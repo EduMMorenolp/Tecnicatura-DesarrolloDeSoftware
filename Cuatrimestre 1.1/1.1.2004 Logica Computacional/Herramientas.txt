@@ -2,3 +2,5 @@ Simulador de circuitos lógicos
 http://163.10.22.82/OAS/compuertas_logicas/Simulacion/editor_simple.html
 Simulador de circuitos lógicos
 https://logic.ly/demo/
+Convertir binario a decimal
+https://masterplc.com/calculadora/convertir-binario-a-decimal/
