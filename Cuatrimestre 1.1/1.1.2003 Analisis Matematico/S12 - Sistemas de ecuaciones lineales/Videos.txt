@@ -1,0 +1,35 @@
+Video 1. En este video se da una introducción a los sistemas de dos ecuaciones lineales con dos incógnitas, o también llamados de 2x2, mediante la resolución de un problema aplicado a la vida cotidiana. Al final, se explica cómo verificar la solución a un sistema de ecuaciones.
+
+https://youtu.be/7msmrukOsos
+
+Video 2. En el siguiente video se profundiza en la comprobación de la solución a un sistema de ecuaciones.
+
+https://youtu.be/9sMxFs6sMD0
+
+Video 3. En el siguiente video se resuelve un sistema de ecuaciones lineales de 2x2 empleando el método de sustitución y explicando lo que debe hacerse en cada uno de los pasos.
+
+https://youtu.be/LTfv1G2iYuQ
+
+Video 4. En este video también se resuelve un sistema de ecuaciones lineales de 2x2, pero empleando el método de igualación y explicando lo que debe hacerse en cada uno de los pasos.
+
+https://youtu.be/apPXOlZnRhg
+
+Video 5. En el siguiente video se define qué son los determinantes de matrices de 2x2 y se resuelve una serie de ejercicios a modo de ejemplo.
+
+https://youtu.be/bsUUVmeqsdY
+
+Video 6.  En este video se resuelven sistemas de ecuaciones lineales de 2x2 empleando la regla de Cramer.
+
+https://youtu.be/jZIk90KQo6s
+
+Video 7. En el siguiente video se desarrollan, con un ejemplo, los pasos que deben seguirse para resolver un problema mediante el planteo de sistemas de ecuaciones lineales de 2x2.
+
+https://youtu.be/Sqq_ed4V1BA
+
+Video 8. En este video se explica la interpretación gráfica y la clasificación de los sistemas de ecuaciones lineales de 2x2.
+
+https://youtu.be/Lc0i2tbRcjg
+
+Video 9. En el siguiente video se resuelven sistemas de ecuaciones lineales de 2x2 aplicando el método gráfico.
+
+https://youtu.be/dJ18ERwjNb4
