@@ -1,0 +1,23 @@
+Crear un programa que le permita al usuario decidir si quiere averiguar el área de un círculo dado su radio, o el perímetro de un rectángulo dado dos lados (base y altura). 
+
+
+Para esto, vamos a crear dos funciones que retornarán dos resultados distintos, una para cada operación. Tener en cuenta que:
+
+La fórmula para sacar el área, es:  PI * radio al cuadrado. 
+
+La fórmula para sacar perímetro, es: 2 * (base + altura). 
+
+
+Si el usuario decide sacar el área del círculo, debe decir en el algoritmo principal cuál es el radio, y se le devolverá el resultado llamando a la función correspondiente.
+
+
+Ej: Si el radio que da el usuario es 10, el resultado que debe dar el programa es 314.
+
+
+Si el usuario decide sacar el perímetro del rectángulo, debe decir en el algoritmo principal cual es la base y la altura, y se le devolverá el resultado llamando a la función correspondiente.
+
+
+Ej: Si la base es 5 y la altura 10, el resultado que debe dar el programa es 30.
+
+
+No es necesario que el programa se repita, aunque si desean pueden hacerlo, estableciendo alguna condición de corte a elección
