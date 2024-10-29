@@ -25,16 +25,21 @@ Funcion ordenarMatriz(matriz)
 	FinPara
 FinFuncion
 
-Algoritmo Ejercicio1
-	Definir matriz, i , j Como Entero
-	
-	Dimension matriz[5,10]
-	
+Funcion llenarMatriz(matriz) 
+	Definir i , j Como Entero
 	Para i = 0 Hasta 4 Hacer
 		Para j = 0 Hasta  9 Hacer
 			matriz[i,j] = Aleatorio(1,9)
 		FinPara
 	FinPara
+FinFuncion
+
+Algoritmo Ejercicio1
+	Definir matriz Como Entero
+	
+	Dimension matriz[5,10]
+	
+	llenarMatriz(matriz) 
 	
 	Escribir "Matriz Sin Ordenar"
 	mostrarMatriz(matriz)
