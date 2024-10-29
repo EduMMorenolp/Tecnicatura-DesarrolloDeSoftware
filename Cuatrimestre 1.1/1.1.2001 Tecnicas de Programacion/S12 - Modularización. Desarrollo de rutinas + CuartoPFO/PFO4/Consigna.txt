@@ -1,0 +1,5 @@
+Ejercicio 1: Generar una matriz de 5 filas y 10 columnas con elementos al azar y mostrarla ordenando cada fila en forma ascendente. (Primero se debe mostrar la matriz sin ordenar)
+
+Ejercicio 2: Una empresa lleva registro de las ventas de sus 5 vendedores en estructuras de datos. Posee un vector donde guarda los nombres de los vendedores y una matriz en paralelo con las ventas de cada vendedor durante los meses del primer semestre (cada fila un vendedor, cada columna un mes).
+Se les adjunta un algoritmo PSEINT (en la bibliografía de la semana) con la carga de los datos (nombre de los vendedores (Juan, Sandra, Claudia, Pedro y Leonardo) y monto total de ventas realizadas en cada mes)
+Descargar ese archivo y terminar el algoritmo incorporando al menos una función o un procedimiento para poder ingresar el nombre de un vendedor y que el algoritmo informe el monto total vendido por ese vendedor durante el semestre (Verificar la existencia del vendedor) 
