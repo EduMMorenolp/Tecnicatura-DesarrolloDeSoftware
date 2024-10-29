@@ -26,7 +26,7 @@ Funcion ordenarMatriz(matriz)
 FinFuncion
 
 Algoritmo Ejercicio1
-	Definir matriz, i , j, k, temp Como Entero
+	Definir matriz, i , j Como Entero
 	
 	Dimension matriz[5,10]
 	
