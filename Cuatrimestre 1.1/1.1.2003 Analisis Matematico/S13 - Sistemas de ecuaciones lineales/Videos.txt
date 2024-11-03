@@ -1,0 +1,21 @@
+Video 1. En este video se explica cómo resolver un sistema de ecuaciones lineales de forma matricial.
+
+https://youtu.be/q6AY4SmtBmE
+
+Video 2. En el siguiente video se explica cómo resolver sistemas de ecuaciones lineales triangulares o escalonados.
+
+https://youtu.be/BDGGRfSRvJk
+
+Video 3. En este video se resuelve un sistema de ecuaciones lineales de 3x3 mediante la regla de Cramer.
+
+https://youtu.be/lLPcHVAqY80
+
+Video 4. En el siguiente video se resuelve un sistema compatible determinado empleando la eliminación gaussiana.
+
+https://youtu.be/LK4T-J4o-ZY
+
+Como podrás notar, solo genera un 1 en el primer renglón, lo cual hace que luego deba realizar un poco más de despejes al momento de sustituir de forma escalonada.
+
+Video 5. En este video se resuelve un sistema de ecuaciones lineales de 3x3 mediante el método de Gauss-Jordan.
+
+https://youtu.be/tW96L_P3o5c
