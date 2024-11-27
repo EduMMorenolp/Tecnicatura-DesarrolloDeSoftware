@@ -7,3 +7,16 @@ Web 2.0 Calc (https://web2.0calc.es/):
 Es una calculadora científica en línea que permite realizar cálculos avanzados con una amplia variedad de funciones matemáticas, como trigonometría, logaritmos, raíces, potencias y más. Es una opción conveniente para resolver problemas matemáticos complejos de forma rápida y sin necesidad de instalar software adicional.
 
 https://es.symbolab.com/
+
+------------------------------------
+
+https://matrixcalc.org/es/slu.html
+
+Resolver sistemas de ecuaciones lineales online
+Resolver sistemas de ecuaciones lineales (Método de la Matriz Inversa, Método de Gauss, Regla de Cramer), 
+calcular el número de soluciones
+
+https://matrix.reshish.com/es/inverse.php
+
+Calculadora de matriz inversa
+Aquí puedes calcular una matriz inversa con números complejos en línea, gratis, con una solución muy detallada.

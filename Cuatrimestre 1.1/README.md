@@ -77,3 +77,68 @@ Analisis matematico : https://drive.google.com/drive/folders/1bSMwFohIeZSnjDMPs5
 
   </tbody>
 </table>
+
+# Notas
+
+<table>
+  <thead>
+    <tr>
+      <th>Evaluación</th>
+      <th>Análisis Matemático</th>
+      <th>Lógica Computacional</th>
+      <th>Técnicas de Programación</th>
+      <th>Administración de Base de Datos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Parcial 1</td>
+      <td>7</td>
+      <td>10</td>
+      <td>8</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td>Parcial 2</td>
+      <td>6</td>
+      <td>10</td>
+      <td>8</td>
+      <td>9.5</td>
+    </tr>
+        <tr>
+      <td>Final</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TP 1</td>
+      <td>N/A</td>
+      <td>Aprovado</td>
+      <td>Aprovado</td>
+      <td>Desaprovado</td>
+    </tr>
+    <tr>
+      <td>TP 2</td>
+      <td>N/A</td>
+      <td>Aprovado</td>
+      <td>Aprovado</td>
+      <td>Aprovado</td>
+    </tr>
+    <tr>
+      <td>TP 3</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Aprovado</td>
+      <td>Aprovado</td>
+    </tr>
+    <tr>
+      <td>TP 4</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Aprovado</td>
+      <td>Aprovado</td>
+    </tr>
+  </tbody>
+</table>
