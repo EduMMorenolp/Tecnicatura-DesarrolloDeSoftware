@@ -117,7 +117,7 @@ Analisis matematico : https://drive.google.com/drive/folders/1bSMwFohIeZSnjDMPs5
       <td>N/A</td>
       <td>Aprovado</td>
       <td>Aprovado</td>
-      <td>Desaprovado</td>
+      <td>Desaprovado/Aprovado</td>
     </tr>
     <tr>
       <td>TP 2</td>
