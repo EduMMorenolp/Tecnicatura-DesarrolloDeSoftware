@@ -107,10 +107,10 @@ Analisis matematico : https://drive.google.com/drive/folders/1bSMwFohIeZSnjDMPs5
     </tr>
         <tr>
       <td>Final</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>7</td>
+      <td>10</td>
+      <td>8</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>TP 1</td>
