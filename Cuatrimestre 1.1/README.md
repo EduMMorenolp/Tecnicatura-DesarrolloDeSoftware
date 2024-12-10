@@ -93,7 +93,7 @@ Analisis matematico : https://drive.google.com/drive/folders/1bSMwFohIeZSnjDMPs5
   <tbody>
     <tr>
       <td>Parcial 1</td>
-      <td>7</td>
+      <td>8</td>
       <td>10</td>
       <td>8</td>
       <td>10</td>
