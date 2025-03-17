@@ -1,0 +1,20 @@
+Video 1: verás cuáles son las concepciones básicas de la teoría de la probabilidad. Por nombrar algunos tenemos: experimentos aleatorios, espacio muestral, evento o suceso, espacio equiprobable y cómo calcular la probabilidad de un evento en un espacio equiprobable. Se exponen varios ejemplos para afianzar estas ideas. [Duración: 28 minutos]
+
+https://youtu.be/lNAMY_otcM4
+
+Video 2:  se da la definición de probabilidad, sus propiedades, cálculo y su relación con la teoría de conjuntos. [Duración: 28 minutos]
+
+https://youtu.be/8oU0F3d-H4U
+
+Video 3:  veremos cómo se resuelve un ejemplo que involucra el cálculo de probabilidades. [Duración: 9 minutos]
+
+https://youtu.be/_bPnPbJTqdI
+
+Video 4: se puede visualizar la resolución un ejercicio a modo de ejemplo para comprender la independencia de eventos. [Duración: 28 minutos]
+
+https://youtu.be/b6ctshJhcjM
+
+Video 5: se explican y resuelven ejemplos sobre estrategias de conteo, las cuales son  útiles para el cálculo de cardinales. [Duración: Desde el minuto 37 hasta el minuto 53]
+
+https://youtu.be/EHwTEqwgYtE
+
