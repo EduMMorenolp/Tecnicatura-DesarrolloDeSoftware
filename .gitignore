@@ -1,0 +1,62 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]ebugServer/
+[Dd]ebugFull/
+[Dd]ebug/.NETCoreApp/
+[Dd]ebug/netcoreapp*
+[Dd]ebug/netstandard*
+[Dd]ebug/net*
+[Dd]ebug/Windows
+bin/
+obj/
+
+# User-specific files
+.idea/
+.vscode/
+.vs/
+.vs2019/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM package manager files
+node_modules/
+
+# Environment-specific files
+.env
+
+# Log files
+*.log
+
+# DotCover
+.idea/
+
+# ReSharper
+_ReSharper*/
+.idea/
