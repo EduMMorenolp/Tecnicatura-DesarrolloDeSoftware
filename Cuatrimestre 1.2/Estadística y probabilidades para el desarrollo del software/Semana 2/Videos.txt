@@ -1,0 +1,9 @@
+Google Colaboratory - Notebook 0 de Python: Primeros pasos
+https://youtu.be/inN8seMm7UI
+
+Primeros pasos con Python para Probabilidad y Estadística
+https://youtu.be/cO9mSd56Fw8
+
+
+Modelado de eventos aleatorios y cálculo de probabilidades
+https://youtu.be/QdxiyjNjCqU
