@@ -1,0 +1,17 @@
+Video 1: en el siguiente video se explica cuál es la interpretación geométrica de una integral definida. [Ver desde el minuto 6:17 hasta el final] 
+
+https://youtu.be/Xx4zkS33pX4
+
+Video 2: aquí se explican los condiciones que debe cumplir una función de densidad de probabilidad.
+
+https://youtu.be/RY1063DuJio
+
+[Videos opcionales: uso de la calculadora científica y Geogebra]
+
+Video 3:  se explica cómo resolver integrales definidas en la calculadora científica.
+
+https://www.youtube.com/shorts/NkPz_kKLx98
+
+Video 4: en este video se explica cómo resolver integrales definidas en GeoGebra.
+
+https://youtu.be/Pwxmc5tlbX4
