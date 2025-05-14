@@ -64,7 +64,7 @@
   <tbody>
      <tr>
       <td>TP 1</td>
-      <td></td>
+      <td>100/100</td>
       <td></td>
       <td></td>
       <td></td>
