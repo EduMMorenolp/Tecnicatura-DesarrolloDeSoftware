@@ -1,0 +1,32 @@
+Video 1: en él se desarrolla la distribución muestral de la media
+
+https://youtu.be/22rqyxUzeZ0
+
+Video 2: se explica el teorema del límite central.
+
+https://youtu.be/46DgBP9VwtE
+
+Video 3:  se resuelve un ejemplo aplicando el teorema del límite central.
+
+https://youtu.be/o2afi9BKRIM
+
+Observación: omitir la parte de estandarizar la normal, dado que nosotros lo hacemos directamente con el software.
+
+Video 4: en este video se explica de forma coloquial la Ley de los Grandes Números.
+
+https://youtu.be/6wA1VUhqTPE
+
+Observación: la parte sobre el programa "RStudio" pueden omitirla, pero son interesantes las conclusiones del final.
+
+Video 5: en el siguiente video se desarrolla la Ley de los Grandes Números haciendo referencia al caso particular de Bernoulli.
+
+https://youtu.be/DDvNIPm6Wwc
+
+Observación: tener en cuenta que en el video se utiliza una notación diferente a la desarrollada en el libro, pero la idea es la misma.
+
+
+
+
+VIDEOTECA PYTHON
+
+https://youtu.be/mu6K4WexE8k
