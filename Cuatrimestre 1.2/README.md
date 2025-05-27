@@ -65,14 +65,14 @@
      <tr>
       <td>TP 1</td>
       <td>100/100</td>
-      <td>Entregado</td>
+      <td>10/10</td>
       <td>Entregado</td>
       <td>Entregado</td>
       <td>Aprobado</td>
     </tr>
      <tr>
       <td>TP 2</td>
-      <td></td>
+      <td>Entregado</td>
       <td>Entregado</td>
       <td></td>
       <td></td>
