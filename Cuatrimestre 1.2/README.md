@@ -32,7 +32,7 @@
     <tr>
       <td>TP 3</td>
       <td>23 de junio</td>
-      <td>2 de junio (mini-Cuestionario)</td>
+      <td>2 de junio (Cuestionario)</td>
       <td>N/N</td>
       <td>N/N</td>
       <td>1 de junio</td>
