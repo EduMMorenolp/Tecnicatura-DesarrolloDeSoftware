@@ -72,7 +72,7 @@
     </tr>
      <tr>
       <td>TP 2</td>
-      <td>Entregado</td>
+      <td>100/100</td>
       <td>Entregado</td>
       <td></td>
       <td></td>
