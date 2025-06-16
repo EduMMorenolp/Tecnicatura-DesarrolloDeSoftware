@@ -33,7 +33,7 @@
       <td>TP 3</td>
       <td>23 de junio</td>
       <td>2 de junio (Cuestionario)</td>
-      <td>N/N</td>
+      <td>17 de Junio Coloquio</td>
       <td>N/N</td>
       <td>1 de junio</td>
     </tr>
@@ -82,7 +82,7 @@
       <td>TP 3</td>
       <td></td>
       <td>10/10</td>
-      <td>N/N</td>
+      <td></td>
       <td>N/N</td>
       <td>Aprobado</td>
     </tr>
