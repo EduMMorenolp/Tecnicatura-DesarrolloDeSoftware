@@ -75,21 +75,21 @@
       <td>100/100</td>
       <td>Aprobado</td>
       <td>Entregado</td>
-      <td></td>
+      <td>Entregado</td>
       <td>Aprobado</td>
     </tr>
      <tr>
       <td>TP 3</td>
       <td></td>
       <td>10/10</td>
-      <td></td>
+      <td>Completado</td>
       <td>N/N</td>
       <td>Aprobado</td>
     </tr>
     <tr>
       <td>TP 4</td>
       <td>N/N</td>
-      <td></td>
+      <td>Entregado</td>
       <td>N/N</td>
       <td>N/N</td>
       <td>Aprobado</td>
