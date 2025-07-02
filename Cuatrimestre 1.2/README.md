@@ -39,7 +39,7 @@
     </tr>
     <tr>
       <td>TP 4</td>
-      <td>N/N</td>
+      <td>30 de junio (Cuestionario)</td>
       <td>16 de junio</td>
       <td>N/N</td>
       <td>N/N</td>
@@ -88,7 +88,7 @@
     </tr>
     <tr>
       <td>TP 4</td>
-      <td>N/N</td>
+      <td>15/15</td>
       <td>Entregado</td>
       <td>N/N</td>
       <td>N/N</td>
