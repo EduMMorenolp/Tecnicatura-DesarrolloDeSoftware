@@ -4,45 +4,45 @@
   <thead>
     <tr>
       <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
+      <th>DAM - Desarrollo de Aplicaciones para Moviles</th>
+      <th>MPS - Metodologías de Pruebas de Sistemas</th>
+      <th>TIC - Tecnologias de la Informacion y Comunicacion</th>
+      <th>TC - Taller de Comunicacion</th>
+      <th>PP2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>TP 1</td>
+      <td>28 de agosto(TP1)</td>
+      <td>09 de septiembre</td>
+      <td>29 de agosto</td>
+      <td>29 de septiembre</td>
+      <td>24 de septiembre</td>
+    </tr>
+    <tr>
+      <td>Primer Parcial</td>
+      <td>25 de septiembre(TP2)</td>
+      <td>30 de septiembre</td>
+      <td>3 de octubre</td>
+      <td>09 de septiembre</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+    </tr>
     </tr>
     <tr>
       <td>TP 2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    </tr>
-    <tr>
-      <td>TP 3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>30 de octubre(TP3)</td>
+      <td>21 de octubre</td>
+      <td>10 de octubre</td>
+      <td>20 de octubre</td>
+      <td>5 de noviembre</td>
     </tr>
     <tr>
-      <td>TP 4</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Segundo Parcial</td>
+      <td>13 de noviembre(TP4 Coloquio)</td>
+      <td>18 de noviembre</td>
+      <td>21 de noviembre</td>
+      <td>17 de noviembre</td>
       <td></td>
     </tr>
   </tbody>
@@ -54,11 +54,11 @@
   <thead>
      <tr>
       <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th>Práctica Profesional 2 - Aproximació al mudo laboral</th>
-      <th></th>
+      <th>DAM - Desarrollo de Aplicaciones para Moviles</th>
+      <th>MPS - Metodologías de Pruebas de Sistemas</th>
+      <th>TIC - Tecnologias de la Informacion y Comunicacion</th>
+      <th>TC - Taller de Comunicacion</th>
+      <th>PP2</th>
     </tr>
   </thead>
   <tbody>
@@ -70,7 +70,16 @@
       <td></td>
       <td></td>
     </tr>
-     <tr>
+    <tr>
+      <td>Primer Parcial</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    </tr>
+    <tr>
       <td>TP 2</td>
       <td></td>
       <td></td>
@@ -78,16 +87,8 @@
       <td></td>
       <td></td>
     </tr>
-     <tr>
-      <td>TP 3</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
     <tr>
-      <td>TP 4</td>
+      <td>Segundo Parcial</td>
       <td></td>
       <td></td>
       <td></td>
