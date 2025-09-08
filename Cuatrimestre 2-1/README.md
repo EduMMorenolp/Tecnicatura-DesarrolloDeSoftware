@@ -25,7 +25,7 @@
       <td>25 de septiembre(TP2)</td>
       <td>30 de septiembre</td>
       <td>3 de octubre</td>
-      <td>09 de septiembre</td>
+      <td></td>
       <td></td>
     </tr>
     </tr>
@@ -34,7 +34,7 @@
       <td>30 de octubre(TP3)</td>
       <td>21 de octubre</td>
       <td>10 de octubre</td>
-      <td>20 de octubre</td>
+      <td>3 de noviembre</td>
       <td>5 de noviembre</td>
     </tr>
     <tr>
@@ -42,7 +42,7 @@
       <td>13 de noviembre(TP4 Coloquio)</td>
       <td>18 de noviembre</td>
       <td>21 de noviembre</td>
-      <td>17 de noviembre</td>
+      <td></td>
       <td></td>
     </tr>
   </tbody>
