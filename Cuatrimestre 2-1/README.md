@@ -54,10 +54,10 @@
   <thead>
      <tr>
       <th></th>
-      <th>DAM - Desarrollo de Aplicaciones para Moviles</th>
-      <th>MPS - Metodologías de Pruebas de Sistemas</th>
-      <th>TIC - Tecnologias de la Informacion y Comunicacion</th>
-      <th>TC - Taller de Comunicacion</th>
+      <th>DAM</th>
+      <th>MPS</th>
+      <th>TIC</th>
+      <th>TC</th>
       <th>PP2</th>
     </tr>
   </thead>
