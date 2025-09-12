@@ -16,7 +16,7 @@
       <td>TP 1</td>
       <td>28 de agosto(TP1)</td>
       <td>09 de septiembre</td>
-      <td>29 de agosto</td>
+      <td>29 de agosto al 5 de octubre de 2025</td>
       <td>29 de septiembre</td>
       <td>24 de septiembre</td>
     </tr>
