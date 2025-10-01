@@ -66,14 +66,14 @@
       <td>TP 1</td>
       <td>Entregado</td>
       <td>Entregado</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Entregado</td>
+      <td>Entregado</td>
+      <td>Entregado</td>
     </tr>
     <tr>
       <td>Primer Parcial</td>
       <td></td>
-      <td></td>
+      <td>8.67</td>
       <td></td>
       <td></td>
       <td></td>
