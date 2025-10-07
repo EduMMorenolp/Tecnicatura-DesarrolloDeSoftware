@@ -74,7 +74,7 @@
       <td>Primer Parcial</td>
       <td></td>
       <td>8.67</td>
-      <td></td>
+      <td>10</td>
       <td></td>
       <td></td>
     </tr>
