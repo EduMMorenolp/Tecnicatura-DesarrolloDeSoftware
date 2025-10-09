@@ -64,7 +64,7 @@
   <tbody>
      <tr>
       <td>TP 1</td>
-      <td>Entregado</td>
+      <td>Aprobado</td>
       <td>Aprobado</td>
       <td>Entregado</td>
       <td>Entregado</td>
