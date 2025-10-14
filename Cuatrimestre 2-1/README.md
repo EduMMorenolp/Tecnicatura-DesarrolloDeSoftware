@@ -68,7 +68,7 @@
       <td>Aprobado</td>
       <td>Entregado</td>
       <td>Entregado</td>
-      <td>Entregado</td>
+      <td>09/10</td>
     </tr>
     <tr>
       <td>Primer Parcial</td>
