@@ -2,7 +2,7 @@
 
 namespace GestionProductos.Tests
 {
-    [TestProduct]
+    [TestFixture]
     public class Tests
     {
         private ProductManager manager;
