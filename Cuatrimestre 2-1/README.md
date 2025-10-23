@@ -33,7 +33,7 @@
       <td>TP 2</td>
       <td>30 de octubre(TP3)</td>
       <td>21 de octubre</td>
-      <td>10 de octubre</td>
+      <td></td>
       <td>3 de noviembre</td>
       <td>5 de noviembre</td>
     </tr>
@@ -54,10 +54,10 @@
   <thead>
      <tr>
       <th></th>
-      <th>DAM</th>
-      <th>MPS</th>
-      <th>TIC</th>
-      <th>TC</th>
+      <th>DAM - Desarrollo de Aplicaciones para Moviles</th>
+      <th>MPS - Metodologías de Pruebas de Sistemas</th>
+      <th>TIC - Tecnologias de la Informacion y Comunicacion</th>
+      <th>TC - Taller de Comunicacion</th>
       <th>PP2</th>
     </tr>
   </thead>
@@ -72,7 +72,7 @@
     </tr>
     <tr>
       <td>Primer Parcial</td>
-      <td></td>
+      <td>Entregado</td>
       <td>8.67</td>
       <td>10</td>
       <td></td>
@@ -82,7 +82,7 @@
     <tr>
       <td>TP 2</td>
       <td></td>
-      <td></td>
+      <td>Entregado</td>
       <td></td>
       <td></td>
       <td></td>
