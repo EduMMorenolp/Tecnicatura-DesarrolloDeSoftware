@@ -39,9 +39,9 @@
     </tr>
     <tr>
       <td>Segundo Parcial</td>
-      <td>13 de noviembre(TP4 Coloquio)</td>
+      <td>20 de noviembre(TP4 Coloquio)</td>
       <td>18 de noviembre</td>
-      <td>21 de noviembre</td>
+      <td>14 de noviembre</td>
       <td></td>
       <td></td>
     </tr>
@@ -66,13 +66,13 @@
       <td>TP 1</td>
       <td>Aprobado</td>
       <td>Aprobado</td>
-      <td>Entregado</td>
+      <td>10</td>
       <td>10/10</td>
       <td>09/10</td>
     </tr>
     <tr>
       <td>Primer Parcial</td>
-      <td>Entregado</td>
+      <td>Aprobado</td>
       <td>8.67</td>
       <td>10</td>
       <td></td>
@@ -81,11 +81,11 @@
     </tr>
     <tr>
       <td>TP 2</td>
-      <td></td>
+      <td>Entregado</td>
       <td>Entregado</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Entregado</td>
+      <td>Entregado</td>
     </tr>
     <tr>
       <td>Segundo Parcial</td>
