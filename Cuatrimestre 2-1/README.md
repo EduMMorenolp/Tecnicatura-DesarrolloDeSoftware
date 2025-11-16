@@ -82,16 +82,16 @@
     <tr>
       <td>TP 2</td>
       <td>Entregado</td>
-      <td>Entregado</td>
+      <td>Aprobado</td>
       <td></td>
       <td>Entregado</td>
-      <td>Entregado</td>
+      <td>10/10</td>
     </tr>
     <tr>
       <td>Segundo Parcial</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>N/N</td>
+      <td>N/N</td>
+      <td>8,46</td>
       <td></td>
       <td></td>
     </tr>
