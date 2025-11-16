@@ -84,7 +84,7 @@
       <td>Entregado</td>
       <td>Aprobado</td>
       <td></td>
-      <td>Entregado</td>
+      <td>10/10</td>
       <td>10/10</td>
     </tr>
     <tr>
