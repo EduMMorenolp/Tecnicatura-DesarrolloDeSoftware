@@ -89,8 +89,8 @@
     </tr>
     <tr>
       <td>Segundo Parcial</td>
-      <td>N/N</td>
-      <td>N/N</td>
+      <td>Aprobado</td>
+      <td>10</td>
       <td>8,46</td>
       <td></td>
       <td></td>
